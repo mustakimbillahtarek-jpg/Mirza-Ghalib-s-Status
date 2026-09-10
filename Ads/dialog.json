@@ -1,1 +1,22 @@
+{
+  "__notes": {
+    "info": "এই নোটটি শুধুমাত্র ডেভেলপারদের জন্য। প্রজেক্ট কোড fetch বা ব্যবহার করবে না।",
+    "reason": "JSON এ কমেন্ট সরাসরি রাখা যায় না, তাই এখানে '_notes' object ব্যবহার করা হয়েছে যাতে code ignore করে এবং ডকুমেন্টেশন হিসেবে রাখা যায়।",
+    "enabled": "true হলে dialog show করবে",
+    "delay": "কত seconds অপেক্ষা করে ডাইলোগ শো করবে",
+    "message": "ডাইলোগ মেসেজ",
+    "button_text": "ডাইলোগ বাটন টেক্সট",
+    "links": "ডাইলোগ বাটনে ক্লিক করলে random link open হবে, এখানে যত খুশি লিংক রাখা যাবে ১ থেকে যত খুশি বেশি রাখলেও সমস্যা নেই"
+  },
 
+  "enabled": true,
+  "delay": 10,
+  "message": "মির্জা গালিবের সকল উক্তি গুলা পড়তে চাইলে আপনাকে ছোট একটা এড দেখতে হবে, এড দেখে ফিরে আসুন তারপর যত খুশি উক্তি পুড়ুন সম্পূর্ণ ফ্রি",
+  "button_text": "এড দেখুন",
+
+  "links": [
+    "https://www.effectivegatecpm.com/xr1wj407?key=6e72ce90e63f3f57ea6e4186d4f031e6",
+    "https://www.effectivegatecpm.com/x2ejbdzvuj?key=a3235fca9d520bcf62a8954e0985d1d5",
+    "https://www.effectivegatecpm.com/kjzv0gxqwg?key=026ac0802282117aaa1d9d8131c650cc"
+  ]
+}
